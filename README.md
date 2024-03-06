@@ -8,6 +8,7 @@
 + Space Exploration (TODO)
 + Birthday Gift (TODO)
 + Hometown Homepage
+  
 **3. Module 3 - Making websites interactive**
  + Passenger Counter App (TODO)
  + JavaScript Challenges - Part 1 (TODO)
@@ -33,6 +34,7 @@
 +Card component
 +Recipes blog
 +Learning Journal - Solo Project
+
 **Module 7 - Next Level JavaScript**
 +Build A Role Playing Game
 +Tindog
@@ -44,12 +46,15 @@
 +Movie Watch List - Solo Project (TODO)
 +War
 +Dashboard
+
 **Module 10 - Learn UI Design**
+
 +Challenge 1
 +Challenge 2
 +Challenge 3
 +Challenge 4
 Challenge 5
+
 **Module 11 - Learn React Basics**
 +React Startup
 +React Facts
