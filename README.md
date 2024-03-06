@@ -30,43 +30,39 @@
 + Restaurant Ordering App - Solo Project
 
 **Module 6 - Responsive Design**
-+Build A Product Splash Page
-+Card component
-+Recipes blog
-+Learning Journal - Solo Project
-
-**Module 7 - Next Level JavaScript**
-+Build A Role Playing Game
-+Tindog
++ Build A Product Splash Page
++ Card component
++ Recipes blog
++ Learning Journal - Solo Project
++ Module 7 - Next Level JavaScript
++ Build A Role Playing Game
++ Tindog
 **Module 8 - Code Reviews**
 **Module 9 - Working With APIs**
-+Bored Bot
-+Blog Space
-+Color Scheme Generator - Solo Project
-+Movie Watch List - Solo Project (TODO)
-+War
-+Dashboard
-
++ Bored Bot
++ Blog Space
++ Color Scheme Generator - Solo Project
++ Movie Watch List - Solo Project (TODO)
++ War
++ Dashboard
 **Module 10 - Learn UI Design**
-
-+Challenge 1
-+Challenge 2
-+Challenge 3
-+Challenge 4
-Challenge 5
-
++ Challenge 1
++ Challenge 2
++ Challenge 3
++ Challenge 4
++ Challenge 5
 **Module 11 - Learn React Basics**
-+React Startup
-+React Facts
-+Digital Business Card - Solo Project
-+AirBnB Clone
-+Travel Journal - Solo Project
-+Meme Generator
-+Boxes Challenge
-+React Forms
-+Fun Facts About React
-+Notes App
-**Module 12 - Getting Hired**
++ React Startup
++ React Facts
++ Digital Business Card - Solo Project
++ AirBnB Clone
++ Travel Journal - Solo Project
++ Meme Generator
++ Boxes Challenge
++ React Forms
++ Fun Facts About React
++ Notes App
+
 
 
 
