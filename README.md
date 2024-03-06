@@ -38,6 +38,7 @@
 + Build A Role Playing Game
 + Tindog
 **Module 8 - Code Reviews**
+  
 **Module 9 - Working With APIs**
 + Bored Bot
 + Blog Space
@@ -45,12 +46,14 @@
 + Movie Watch List - Solo Project (TODO)
 + War
 + Dashboard
+  
 **Module 10 - Learn UI Design**
 + Challenge 1
 + Challenge 2
 + Challenge 3
 + Challenge 4
 + Challenge 5
+  
 **Module 11 - Learn React Basics**
 + React Startup
 + React Facts
