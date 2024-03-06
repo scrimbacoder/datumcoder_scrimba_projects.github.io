@@ -1,10 +1,10 @@
 #Frontend Developer Career Path with Srimba.com
 
-#My projects:
+-My projects:
 
-#Module 2 - Web dev basics
+2. Module 2 - Web dev basics
 
-#Google Clone (TODO)
+- [ ] Google Clone (TODO)
 
 #Business Card
 
