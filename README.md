@@ -1,6 +1,6 @@
 #Frontend Developer Career Path with Srimba.com
 
--**My Scrimba solo projects:**
+**My Scrimba solo projects:**
 
 + We Are The Champions - Solo Project
 + Oldagram - Solo Project (TODO)
